@@ -8,4 +8,5 @@ Pada Laporan Praktikum kali ini, Saya akan menjelaskan langkah langkah dalam mel
 - ISO Ubuntuy versi 24.04 LTS
 ## Langkah-langkah
  Buka VirtualBox lalu klik "new" untuk membuat Virtual Machine baru.
+ ![buka aplikasi virtualbox lalu klik new]
  
