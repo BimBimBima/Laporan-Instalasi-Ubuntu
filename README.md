@@ -11,4 +11,6 @@ Pada Laporan Praktikum kali ini, Saya akan menjelaskan langkah langkah dalam mel
  Buka VirtualBox lalu klik "new" untuk membuat Virtual Machine baru.
  ![buka aplikasi virtualbox lalu klik new](https://raw.githubusercontent.com/BimBimBima/Laporan-Instalasi-Ubuntu/be5e1b99a09ad7a643711809705b866c50ef077f/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20195713.png)
  Beri nama pada virtual machine yang akan dibuat, lalu tetapkan Type dan Version yang sesuai(dalam percobaan ini kita menggunakan Linux dengan Version Ubuntu64bit)
+ ![beri nama virtual machine dan setting type dan versi ubuntu](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20195901.png?raw=true) 
+ 
  
