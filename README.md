@@ -41,8 +41,8 @@ Setelah masuk, pada tampilan awal kita diminta untuk memilih bahasa yang akan di
 ![Tampilan awal ubuntu kita diminta untuk memilih bahasa yang akan digunakan dalam proses instalasi](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200328.png?raw=true)
 
  
- Lalu pilih bahasa yang digunakan Keyboard kita
- ![pilih bahasa keyboard](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200343.png?raw=truea selama instalasi)
+ Lalu pilih bahasa yang digunakan Keyboard kita  selama instalasi
+ ![pilih bahasa keyboard](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200343.png?raw=truea)
 
  Tentukan nama/username dan Password yang akan digunakan untuk login Ubuntu
  ![set nama dan password](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200514.png?raw=true)
