@@ -5,7 +5,7 @@ Pada Laporan Praktikum kali ini, Saya akan menjelaskan langkah langkah dalam mel
 ## Alat dan Bahan
 - PC/Laptop
 - VrtualBox
-- ISO Ubuntuy versi 24.04 LTS
+- ISO Ubuntu versi 24.04 LTS
 ## Langkah-langkah
 ### Membuat Virtual Machine di VirtualBox
  Buka VirtualBox lalu klik "new" untuk membuat Virtual Machine baru.
