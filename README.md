@@ -46,3 +46,21 @@ Setelah masuk, pada tampilan awal kita diminta untuk memilih bahasa yang akan di
 
  Tentukan nama/username dan Password yang akan digunakan untuk login Ubuntu
  ![set nama dan password](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200514.png?raw=true)
+
+Tentukan Zona Waktu yang akan digunakan
+ ![tentukan zona waktu yg digunakan](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200533.png?raw=true)
+
+Jika semua sudah siap tinggal klik "Install"
+ ![iNSTAL](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20200543.png?raw=true)
+
+Tunggu sampai proses Instalasi selesai
+ ![tinggal tunggu](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20201230.png?raw=true)
+
+Setelah proses Instalasi selesai, akan diberikan pilihan Lanjut menggunakan atau restart Ubuntu 
+ ![SETELAH SELESAI](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20211003.png?raw=true)
+
+Jika memilih Restart, saat login kembali akan diminta memasukkan Password yang telah dibuat sebelumnya saat proses instalasi 
+ ![JIKA ANDA RESTART ANDA AKAN DIMINTA MEMASUKKAN PASSWORD KETIKA LOGIN](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20211159.png?raw=true)
+
+Linux sudah siap digunakan
+ ![lINUX TELAH SIAP DIGUNAKAN](https://github.com/BimBimBima/Laporan-Instalasi-Ubuntu/blob/main/Screenshot%20Instalasi%20Linux/Screenshot%202024-08-30%20211250.png?raw=true)
