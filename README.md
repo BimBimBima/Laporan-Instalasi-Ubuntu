@@ -1,4 +1,4 @@
-# Laporan-Instalasi-Ubuntu
+# Tugas-Laporan-Instalasi-Ubuntu
 Laporan proses Instalasi Sistem Operasi Linux dengan Ubuntu
 ## Pendahuluan
 Pada Laporan Praktikum kali ini, Saya akan menjelaskan langkah langkah dalam melakukan instalasi Sistem Operasi Linux dengan Ubuntu melalui VirtualBox dengan tujuan untuk memahami cara melakukan instalasi serta dasar pengaturan dan pengoperasian Sistem Operasi Linux.
